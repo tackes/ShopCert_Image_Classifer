@@ -26,4 +26,3 @@ This notebook/ppt shows the full end to end project including all the below:
 14) Next steps
 
 
-![image](https://user-images.githubusercontent.com/9125316/109580166-c3f6b680-7abf-11eb-9005-d57fcb623258.png)
